@@ -1,2 +1,9 @@
-# CPP_Programs
-Learning C++ Programming Language
+# Learning C++ Programming Language
+
+I learned:
+- Data Types
+- Conditionals
+- Loops
+- Arrays
+- Functions
+- Structs
